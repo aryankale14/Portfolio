@@ -6,22 +6,11 @@ function Experience() {
       role: "Analyst (GenAI & Intelligent Automation Initiative)",
       company: "Capgemini",
       location: "Mumbai, India",
-      period: "Feb 2026 – Present",
+      period: "Oct 2025 – Present",
       bullets: [
         "Developed an Amazon Bedrock-powered AI agent for automated classification and remediation of Apache Airflow workflow failures, reducing manual incident triage time by 40% through LLM-driven recommendations.",
         "Worked with cross-functional teams to validate AI-generated remediation decisions and establish guardrails for production-safe automation.",
         "Optimized prompts and evaluation workflows for LLM-based incident classification, improving response quality and operational reliability."
-      ]
-    },
-    {
-      role: "Analyst (Data & Operations) — Client: Aptiv (Americas)",
-      company: "Capgemini",
-      location: "Mumbai, India",
-      period: "Oct 2025 – Jan 2026",
-      bullets: [
-        "Managed data integrity and resource mapping for 200+ personnel, utilizing advanced data transformations to ensure 100% accuracy in enterprise reporting systems.",
-        "Optimized core operational workflows and cross-functional transitions, significantly reducing manual processing time and system latency.",
-        "Directed access provisioning and cross-team collaboration frameworks, achieving zero downtime across project deployments."
       ]
     }
   ]

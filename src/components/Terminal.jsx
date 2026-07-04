@@ -70,12 +70,9 @@ Tools:       AWS (S3, EC2, Textract), Supabase, Firebase, n8n, Railway, Vercel`,
         break
       case 'experience':
         response.push({
-          text: `1. Analyst (GenAI & Intelligent Automation Initiative) - Capgemini [Feb 2026 - Present]
+          text: `1. Analyst (GenAI & Intelligent Automation Initiative) - Capgemini [Oct 2025 - Present]
    - Developed Amazon Bedrock AI agent for automated classification and remediation of Apache Airflow workflow failures.
-   - Reduced incident triage time by 40% using LLM recommendations.
-   
-2. Analyst (Data & Operations) - Capgemini [Oct 2025 - Jan 2026]
-   - Managed resource mapping and pipeline integrity for 200+ personnel.`,
+   - Reduced incident triage time by 40% using LLM recommendations.`,
           type: 'output'
         })
         break
