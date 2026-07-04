@@ -95,14 +95,14 @@ Tools:       AWS (S3, EC2, Textract), Supabase, Firebase, n8n, Railway, Vercel`,
       case 'resume':
         response.push({
           text: `Resume retrieval:
-- Click to download: [Aaryan_new_resume.pdf] (download in progress...)
+- Click to download: [Aaryan_Kale_Resume.pdf] (download in progress...)
 - Or use the download button on the main page.`,
           type: 'output'
         })
         // Trigger a download
         const link = document.createElement('a')
-        link.href = 'Aaryan_new_resume.pdf'
-        link.download = 'Aaryan_new_resume.pdf'
+        link.href = 'Aaryan_Kale_Resume.pdf'
+        link.download = 'Aaryan_Kale_Resume.pdf'
         document.body.appendChild(link)
         link.click()
         document.body.removeChild(link)

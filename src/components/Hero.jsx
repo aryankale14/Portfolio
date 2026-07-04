@@ -215,7 +215,7 @@ function Hero({ onOpenTerminal }) {
               Initialize Console
             </button>
             <a
-              href="/Aaryan_new_resume.pdf"
+              href="/Aaryan_Kale_Resume.pdf"
               download="Aaryan_Kale_Resume.pdf"
               className="btn btn-secondary btn-ghost"
             >
